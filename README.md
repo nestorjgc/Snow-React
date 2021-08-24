@@ -1,4 +1,4 @@
-# Student Grade Table (SGT)
+# Snow
 
 ## Introduction
 
