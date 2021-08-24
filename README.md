@@ -21,8 +21,7 @@ A full stack application for users where they can see the best ski resort destin
   - User can sign up (hosted by firebase)
 
 ## Preview
-
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.com/nestorjgc/Snow-React/blob/gh-pages/imgs/gif.gif" width="1102" height="644">
+![Alt Text](https://github.com/nestorjgc/Snow-React/blob/gh-pages/imgs/gif.gif)
 
 ## Development
 ### System Requirements
