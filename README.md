@@ -3,10 +3,11 @@
 ## Introduction
 
 
-A front end JavaScript application where I show a portfolio of my projects and information about me for future employers.
+A full stack application for users where they can see the best ski resort destinations.
 
 ## Technologies Used
 - React
+- Firebase
 - Bootstraps
 - JavaScript
 - HTML5
@@ -15,6 +16,9 @@ A front end JavaScript application where I show a portfolio of my projects and i
 ## Live Demo:  https://react-web-2c223.web.app/
 
 ## Features
+  - User can see the best ski destinations.
+  - User can subscribe to receive emails about next best destinations.
+  - User can sign up (hosted by firebase)
 
 ## Preview
 
