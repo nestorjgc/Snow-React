@@ -30,8 +30,8 @@ A full stack application for users where they can see the best ski resort destin
 ### Getting Started
 1. Clone the repository.  <br/>
 
-        git clone https://github.com/khoacao0601/student-grade-table.git
-        cd student-grade-table
+        git clone https://github.com/nestorjgc/Snow-React.git
+        cd Snow-React
         
 2. Install all dependencies with NPM. <br/>
 
