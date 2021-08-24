@@ -13,7 +13,7 @@ A full stack JavaScript application for teachers who want to manage course recor
 - CSS3
 - AWS EC2
 
-## Live Demo: https://sgt.khoacao.com/
+## Live Demo: https://react-web-2c223.web.app/
 
 ## Features
 - Teachers can view a list of recorded grades.
