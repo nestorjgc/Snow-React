@@ -1,4 +1,4 @@
-#Portafolio Website
+# Snow
 
 ## Introduction
 
@@ -6,7 +6,8 @@
 A front end JavaScript application where I show a portfolio of my projects and information about me for future employers.
 
 ## Technologies Used
-- Bootstrap
+- React
+- Bootstraps
 - JavaScript
 - HTML5
 - CSS3
