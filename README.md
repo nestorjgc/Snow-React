@@ -1,6 +1,6 @@
 # Snow
 
-## Introduction
+## Introduction.
 
 
 A full stack application for users where they can see the best ski resort destinations.
